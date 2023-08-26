@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Raghav
+- 👋 Hi, I’m Raghav Rajeev
 - 👀 I’m working on developing a hp-Spectral element solver
-- 📫 Reach me on r.raghav@iitg.ac.in
+- 📫 Reach me on r.raghav [at] iitg.ac.in
 
 <!---
 raghavrajeev/raghavrajeev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
