@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Raghav Rajeev
-- 👀 I’m developing a hp-Spectral element fast CFD solver
+- 👀 I’m developing a hp-Spectral element CFD solver
 - 📫 Reach me on r.raghav [at] iitg.ac.in
 
 <!---
