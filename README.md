@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raghav Rajeev
-- 👀 I’m developing a hp-Spectral element CFD solver
-- 📫 Reach me on r.raghav [at] iitg.ac.in
+- 👀 I’m a graduate student at Georgia Tech
+- 📫 Reach me on r.raghav [at] gatech.ac.in
 
 <!---
 raghavrajeev/raghavrajeev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
